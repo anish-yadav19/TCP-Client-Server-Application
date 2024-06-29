@@ -7,8 +7,7 @@
         Prerequisites
         Installation
         Usage
-        Contributing
-        License
+        
 # Overview
     This project consists of two main components:
 
